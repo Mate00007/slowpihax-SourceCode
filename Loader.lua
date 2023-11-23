@@ -855,13 +855,6 @@ spawn(function()
 				)
 			end
 
-            if key == "mGXrkthUqruDYwODWkPnIIaSWmTNwujR" or key == "DevKey_slowpihax" then
-                if Fingerprint ~= "eddb1bea5be1bb37b337d5d097dd17313793508cd13fc9aa2a460461cdf638e4" and Fingerprint ~= "D8AC4F98F14E26209536D1A0F8B48B50240C" and Fingerprint ~= "5ba5c85e-c941-48d7-a53e-2c786859af74" then
-                    if tostring(game.Players.LocalPlayer.Character) ~= "pIayer_slowpi" and tostring(game.Players.LocalPlayer.Character) ~= "zwinpIayer32" and tostring(game.Players.LocalPlayer.Character) ~= "FulIBeeMovieScript" then
-                        -- game.Players.LocalPlayer:Kick('It seems like you used the dev key without having access to it, if you believe that this was a mistake then please send me a message on discord: slowpi')
-                    end
-                end
-            end
 
     local playerInformation = {
         username = game.Players.LocalPlayer.Name,
